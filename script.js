@@ -40,3 +40,5 @@ function getHours(){
 
 console.log (`Time is ${getHours()}:${getMinutes()}:${getHours()}`)
 
+// check if I know how git works?
+
